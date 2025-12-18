@@ -29,7 +29,7 @@ requestment:
 
   Installation Steps
     Step 1: Clone the Project (Optional)
-      git clone https://github.com/Shenjizhizhu/Cora
+      git clone https://github.com/Shenjizhizhu/Cora1
       cd 
   Step 2: Install Dependencies
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
